@@ -50,5 +50,5 @@ This serves as a stepping stone into quantitative development, combining modern 
 
 1. **Clone the repository**
 ```bash
-git clone <https://github.com/VarunPatani/quant-dashboard-LR.git>
+git clone https://github.com/VarunPatani/quant-dashboard-LR.git
 cd my-quant-app
